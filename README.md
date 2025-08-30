@@ -1,1 +1,1 @@
-# Product-Stock-Checker-
+# Product-Stock-Checker- to check the availability of stocks
